@@ -1,0 +1,12 @@
+nviz: 100
+nrestart: 100
+current_dt: 1e-10
+t_final: 1.1e-9
+alpha_sc: 0.5
+s0_sc: -5.0
+kappa_sc: 0.5
+logDependent: 1
+hScaling: 0
+boundaryReport: 1
+order: 3
+wscale: 1
